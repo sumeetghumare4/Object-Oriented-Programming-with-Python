@@ -1,3 +1,6 @@
+# Method Overriding
+# Function call will follow Child Class
+
 class Phone:
     
     def __init__(self,price,brand,camera):
